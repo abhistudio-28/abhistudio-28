@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**abhistudio-28/abhistudio-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 🎬 AbhiStudio AI Editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-based photo & video editing project.
+
+## 🔥 Features
+- Prompt-based image generation
+- Cinematic couple poses
+- Emotional scenes
+- Instagram DP style images
+- Realistic face preservation
+
+## 🛠 Tools Used
+- AI Prompt Engineering
+- Image Generation Models
+- Video Scene Prompting
+
+## 🚀 Goal
+To create realistic and creative AI-generated visuals using powerful prompts.
+
+---
+
+Made with ❤️ by Abhishek
